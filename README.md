@@ -66,6 +66,20 @@ Aston Martin Lagonda annual reports:
 
 All financial data has been sourced from publicly available company reports.
 
+## Key Forecast Outputs
+
+The base-case forecast currently projects:
+
+| Metric | 2025A | 2030E |
+|---|---:|---:|
+| Revenue | £1.26bn | £1.75bn |
+| Gross Margin | 29.4% | 40.5% |
+| Adjusted EBIT | -£189m | £142m |
+| Adjusted EBITDA | £108m | £554m |
+| Free Cash Flow | -£410m | -£59m |
+
+The model therefore assumes a gradual recovery in profitability driven by improving gross margins, higher average selling prices, operating-cost discipline and increased vehicle volumes.
+
 ## Disclaimer
 
 This project is for educational and portfolio purposes only and does not constitute investment advice.
