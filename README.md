@@ -80,6 +80,16 @@ The base-case forecast currently projects:
 
 The model therefore assumes a gradual recovery in profitability driven by improving gross margins, higher average selling prices, operating-cost discipline and increased vehicle volumes.
 
+## Model Preview
+
+### Income Statement
+
+![Income Statement](images/income-statement.png)
+
+### Cash Flow
+
+![Cash Flow](images/cash-flow.png)
+
 ## Disclaimer
 
 This project is for educational and portfolio purposes only and does not constitute investment advice.
